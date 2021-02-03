@@ -11,3 +11,4 @@ A repository to teach how to make a Pull Request
 ### 6. Congratulations! You've successfully made a Pull Request!
 
 commit1
+commit2
