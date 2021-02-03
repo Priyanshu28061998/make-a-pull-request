@@ -11,6 +11,8 @@ A repository to teach how to make a Pull Request
 ### 6. Congratulations! You've successfully made a Pull Request!
 
 commit1
+<<<<<<< HEAD
 commit2
 commit3
-commit4
+=======
+>>>>>>> parent of 1f5b00f (commit2)
